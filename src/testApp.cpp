@@ -195,7 +195,6 @@ void testApp::draw() {
 
     // text in white
     ofSetColor(254,254,254);
-    ofSetLineWidth(5.0);
     // draw menu
     drawMenu(15);
 
