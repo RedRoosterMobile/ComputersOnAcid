@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="..\..\..\addons\ofxFBOTexture\src\ofxFBOTexture.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="3255" topLine="57" />
+	</File>
+	<File name="..\..\..\addons\ofxFBOTexture\src\ofxFBOTexture.h" open="0" top="0" tabpos="11">
+		<Cursor position="584" topLine="33" />
+	</File>
+	<File name="src\dkVideoSlitScan.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2164" topLine="60" />
+	</File>
+	<File name="src\main.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="257" topLine="0" />
+	</File>
+	<File name="src\testApp.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="9770" topLine="230" />
+	</File>
+	<File name="src\testApp.h" open="1" top="0" tabpos="2">
+		<Cursor position="1459" topLine="43" />
+	</File>
+</CodeBlocks_layout_file>
